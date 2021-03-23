@@ -1,0 +1,27 @@
+.c_prev {
+    left: 89% !important;
+    bottom: 5% !important;
+}
+.c_next {
+    right: 2% !important;
+    bottom: 5% !important;
+}
+.c_prev, .c_next {
+    top: 70%;
+    width: 5%;
+}
+.cid{
+    
+    left:-85%; 
+    bottom:70%;
+     /*display: block;*/
+    
+}
+
+.cid [data-bs-target] {
+
+    width: 15px;
+    height: 15px;
+    
+
+}
